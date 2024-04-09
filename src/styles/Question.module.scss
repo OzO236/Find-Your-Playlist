@@ -1,0 +1,48 @@
+.back {
+  background-color: rgba(255, 255, 255, 1);
+  background: linear-gradient(180deg, rgb(150.68, 175.55, 194.21) 0%, rgba(247.14, 247.14,274.14, 0.98) 100%);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .toplayer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    //position: relative;
+    width: 100%;
+    height: 100%;
+
+    .ex {
+      background-color: #fff;
+      width: 100px;
+      height: 100px;
+    }
+
+    .pageNum {  
+      //background-color: #fff;
+    }
+
+    .questionTitle{
+      //position: absolute;
+      //color: #fff;
+    }
+
+    .questionImg{
+      img {
+
+      }
+    }
+
+    .question {
+      height: 50px;
+      width: 300px;
+      background-color: #ededed;
+      border-radius: 13px;
+      box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.2);
+    }
+  }
+}

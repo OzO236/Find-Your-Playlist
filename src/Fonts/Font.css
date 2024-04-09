@@ -6,8 +6,8 @@
 
 @font-face {
   font-family: "Inter-SemiBold";
-  src: url('./SemiBold.woff2') format("woff2"),
-        url('./SemiBold.woff') format("woff");
+  src: url('./Inter-SemiBold.woff2') format("woff2"),
+        url('./Inter-SemiBold.woff') format("woff");
 }
 
 @font-face {

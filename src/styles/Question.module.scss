@@ -7,42 +7,60 @@
   justify-content: center;
   align-items: center;
 
-  .toplayer {
+  .topLayer {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    //position: relative;
     width: 100%;
     height: 100%;
 
-    .ex {
-      background-color: #fff;
-      width: 100px;
-      height: 100px;
-    }
+    .secLayer{
+      width: 300px;
+      text-align: left;
+      margin-top: 30px;
 
-    .pageNum {  
-      //background-color: #fff;
-    }
-
-    .questionTitle{
-      //position: absolute;
-      //color: #fff;
-    }
-
-    .questionImg{
-      img {
-
+        .pageNum { 
+          font-size: 16px;
+          font-family: "Inter-SemiBold";
+          margin-bottom: 22px;
+      }
+    
+      .questionTitle{
+        font-size: 25px;
+        white-space: nowrap;
+        font-family: "Inter-Medium";
+        margin-bottom: 45px;
       }
     }
+  
+    .questionImg{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 300px;
+      margin-bottom: 13px;
 
+      img {
+        
+      }
+    }
+  
     .question {
+      display: flex;
+      justify-content: center;
+      align-items: center;
       height: 50px;
       width: 300px;
+      font-size: 16px;
+      font-family: "Inter-Thin";
       background-color: #ededed;
+      white-space: nowrap;
       border-radius: 13px;
-      box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.2);
+      box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.2);
+      margin-bottom: 20px;
     }
+
   }
+
 }

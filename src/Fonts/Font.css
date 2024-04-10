@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  font-family: "Inter-Medium";
+  font-family: "Inter-Thin";
   src: url('./Inter-Thin.woff2') format("woff2"),
         url('./Inter-Thin.woff') format("woff");
 }

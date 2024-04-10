@@ -2,8 +2,8 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "Main.scss"
+        "Playlist.module.scss"
     ],
     "names": [],
-    "file": "Main.css"
+    "file": "Playlist.module.css"
 }

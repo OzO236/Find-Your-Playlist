@@ -1,0 +1,193 @@
+.container{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 1);
+  background: linear-gradient(180deg, rgb(150.68, 175.55, 194.21) 0%, rgb(196.66, 197.83, 200.16) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .objects{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .mainposition{
+      width: 100%;
+      height: 40%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .mainbox{
+        width: 95%;
+        height: 95%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .titlepicture{
+          width: 230px;
+          height: 230px;
+          margin-top: 50px;
+          margin-bottom: -7px;
+  
+          img{
+            width: 100%;
+            height: 100%;
+          }
+        }
+  
+        .titletxt{
+  
+          p{
+            font-family: "Inter-SemiBold";
+            font-weight: 600;
+            color: #000;
+            font-size: 18px;
+          }
+        }
+      }
+    }
+
+    .shareposition{
+      width: 100%;
+      height: 10%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .sharetxt{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        p{
+          font-family: "Inter-SemiBold";
+          font-weight: 600;
+          color: #EDEDED;
+          font-size: 10px;
+          text-shadow: 2px 2px 6px #00000040;
+        }
+      }
+
+      .icons{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        
+
+        .icon{
+          width: 32px;
+          height: 32px;
+          margin-right: 10px;
+
+          &:nth-last-child(1){
+            margin-right: 0;
+          }
+
+          img{
+            width: 100%;
+            height: 100%;
+          }
+        }
+      }
+    }
+
+    .playlistposition{
+      width: 100%;
+      height: 50%;
+      overflow-y: scroll;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .bigbox{
+        width: 90%;
+        height: auto;
+        margin-top: -15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        .box{
+          width: 100%;
+          height: 100%;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
+          border-top: 1px solid #DEDEDE;
+
+          &:nth-last-child(1){
+            border-bottom: 1px solid #DEDEDE;
+            margin-bottom: 0;
+          }
+
+          .musicbox{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            margin-left: 10px;
+
+            .pic{
+              width: 50px;
+              height: 50px;
+  
+              img{
+                width: 100%;
+                height: 100%;
+              }
+            }
+  
+            .music{
+              margin-left: 10px;
+  
+              .title{
+                margin-bottom: -10px;
+  
+                p{
+                  font-family: "Inter-SemiBold";
+                  font-weight: 600;
+                  color: #000;
+                  font-size: 13px;
+                }
+              }
+  
+              .artist{
+  
+                p{
+                  font-family: "Inter-Medium";
+                  font-weight: 500;
+                  color: #DEDEDE;
+                  font-size: 11px;
+                }
+              }
+            }
+          }
+
+          .moreIcon{
+            width: 15px;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 10px;
+
+            img{
+              width: 100%;
+              height: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+}

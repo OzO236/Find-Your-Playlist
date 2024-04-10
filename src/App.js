@@ -10,7 +10,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Main/>}></Route>
         <Route path='/question' element={<div>질문페이지</div>}></Route>
-        <Route path='/result' element={<div>결과페이지</div>}></Route>
+        <Route path='/result' element={<Playlist/>}></Route>
       </Routes>
     </div>
   );

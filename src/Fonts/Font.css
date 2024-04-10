@@ -1,17 +1,20 @@
 @font-face {
   font-family: "Inter-Medium";
+  /* font-weight: 500; */
   src: url('./Inter-Medium.woff2') format("woff2"),
         url('./Inter-Medium.woff') format("woff");
 }
 
 @font-face {
   font-family: "Inter-SemiBold";
+  /* font-weight: 600; */
   src: url('./Inter-SemiBold.woff2') format("woff2"),
         url('./Inter-SemiBold.woff') format("woff");
 }
 
 @font-face {
-  font-family: "Inter-Medium";
+  font-family: "Inter-Thin";
+  /* font-weight: 100; */
   src: url('./Inter-Thin.woff2') format("woff2"),
         url('./Inter-Thin.woff') format("woff");
 }

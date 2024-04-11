@@ -1,0 +1,44 @@
+.back {
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(96.03, 120.17, 145.14, 0.98) 0%,
+    rgb(222.26, 222.26, 222.26) 100%
+  );
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .topLayer {
+    width: 300px;
+
+    .loadingStn {
+      font-size: 20px;
+      font-family: "Inter-SemiBold";
+      white-space: nowrap;
+      text-align: center;
+      margin-bottom: 39px;
+    }
+  .loadingCat1 {
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Inter-Medium";
+    font-size: 18px;
+    padding-left: 70px;
+  }
+  .loadingCat2 {
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: peachpuff;
+    font-family: "Inter-Medium";
+    font-size: 18px;
+    padding-left: 70px;
+  }
+  }
+}

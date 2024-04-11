@@ -14,7 +14,6 @@
 
 @font-face {
   font-family: "Inter-Thin";
-  /* font-weight: 100; */
   src: url('./Inter-Thin.woff2') format("woff2"),
         url('./Inter-Thin.woff') format("woff");
 }

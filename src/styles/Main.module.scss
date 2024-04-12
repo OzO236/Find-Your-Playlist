@@ -62,6 +62,7 @@
           top: 100px;
           right: 25px;
           cursor: pointer;
+          animation: changeColor 3s infinite forwards;
         }
       }
       
@@ -91,5 +92,17 @@
         height: 100%;
       }
     }
+  }
+}
+
+@keyframes changeColor {
+  0% {
+    border: 1px solid transparent;
+  }
+  50% {
+    border: 1px solid #607891;
+  }
+  100% {
+    border: 1px solid transparent;
   }
 }

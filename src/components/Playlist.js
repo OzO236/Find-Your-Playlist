@@ -51,7 +51,10 @@ const songs = [
   }
 ]
 
-const Playlist = () => {
+const Playlist = ({resultData}) => {
+
+  console.log("받아온결과데이터:",resultData)
+  
   return (
     <div className={styles.container}>
       <div className={styles.objects}>

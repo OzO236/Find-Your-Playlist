@@ -1,68 +1,112 @@
 .container {
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(180deg, rgba(197, 198, 200, 0.8) 0%, rgb(222, 222, 222) 49.9%, rgba(197, 198, 200, 0.8) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(197, 198, 200, 0.8)), color-stop(49.9%, #dedede), to(rgba(197, 198, 200, 0.8)));
+  background: linear-gradient(180deg, rgba(197, 198, 200, 0.8) 0%, #dedede 49.9%, rgba(197, 198, 200, 0.8) 100%);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container p {
   font-family: "DungGeunMo";
   color: #222222;
   font-size: 10px;
   text-align: center;
 }
+
 .container .objects {
   width: 100%;
   height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .screen {
   width: 300px;
   height: 240px;
-  background: linear-gradient(180deg, rgba(96, 120, 145, 0.98) 0%, rgb(237, 237, 237) 100%);
-  box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.2509803922);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(96, 120, 145, 0.98)), to(#ededed));
+  background: linear-gradient(180deg, rgba(96, 120, 145, 0.98) 0%, #ededed 100%);
+  -webkit-box-shadow: inset 1px 1px 5px #00000040;
+          box-shadow: inset 1px 1px 5px #00000040;
   border-radius: 15px;
   margin-bottom: 100px;
 }
+
 .container .objects .screen .chats {
   height: 85%;
   position: relative;
 }
+
 .container .objects .screen .chats .chat1 {
   width: 200px;
   height: 35px;
   background-color: #EDEDED;
   border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   position: absolute;
   top: 40px;
   left: 25px;
 }
+
 .container .objects .screen .chats .chat2 {
   width: 200px;
   height: 35px;
   background-color: #EDEDED;
   border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   position: absolute;
   top: 100px;
   right: 25px;
 }
+
 .container .objects .screen .visited {
   height: 15%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   position: relative;
 }
+
 .container .objects .screen .visited p {
   font-size: 9px;
   color: #607891;
@@ -70,11 +114,14 @@
   top: 0;
   right: 20px;
 }
+
 .container .objects .playctl {
   width: 250px;
   height: 250px;
 }
+
 .container .objects .playctl img {
   width: 100%;
   height: 100%;
-}/*# sourceMappingURL=Main.module.css.map */
+}
+/*# sourceMappingURL=Main.module.css.map */

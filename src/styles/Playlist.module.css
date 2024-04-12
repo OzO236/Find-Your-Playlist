@@ -1,15 +1,25 @@
 .container {
   width: 100vw;
   height: 100vh;
-  background-color: rgb(255, 255, 255);
-  background: linear-gradient(180deg, rgb(151, 176, 194) 0%, rgb(197, 198, 200) 100%);
+  background-color: white;
+  background: -webkit-gradient(linear, left top, left bottom, from(#97b0c2), to(#c5c6c8));
+  background: linear-gradient(180deg, #97b0c2 0%, #c5c6c8 100%);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects {
   width: 100%;
   height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -27,148 +37,252 @@
   width: 100%;
   height: 100%;
 }
+
 .container .objects .mainposition {
   width: 100%;
   height: 40%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .mainposition .mainbox {
   width: 95%;
   height: 95%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .mainposition .mainbox .titlepicture {
   width: 230px;
   height: 230px;
   margin-top: 50px;
   margin-bottom: -7px;
 }
+
 .container .objects .mainposition .mainbox .titlepicture img {
   width: 100%;
   height: 100%;
 }
+
 .container .objects .mainposition .mainbox .titletxt p {
   font-family: "Inter-SemiBold";
   font-weight: 600;
   color: #000;
   font-size: 18px;
 }
+
 .container .objects .shareposition {
   width: 100%;
   height: 10%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .shareposition .sharetxt {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .shareposition .sharetxt p {
   font-family: "Inter-SemiBold";
   font-weight: 600;
   color: #EDEDED;
   font-size: 10px;
-  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2509803922);
+  text-shadow: 2px 2px 6px #00000040;
 }
+
 .container .objects .shareposition .icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .shareposition .icons .icon {
   width: 32px;
   height: 32px;
   margin-right: 10px;
 }
+
 .container .objects .shareposition .icons .icon:nth-last-child(1) {
   margin-right: 0;
 }
+
 .container .objects .shareposition .icons .icon img {
   width: 100%;
   height: 100%;
 }
+
 .container .objects .playlistposition {
   width: 100%;
   height: 50%;
   overflow-y: scroll;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .playlistposition .bigbox {
   width: 90%;
   height: auto;
   margin-top: -15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .container .objects .playlistposition .bigbox .box {
   width: 100%;
   height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   border-top: 1px solid #DEDEDE;
 }
+
 .container .objects .playlistposition .bigbox .box:nth-last-child(1) {
   border-bottom: 1px solid #DEDEDE;
   margin-bottom: 0;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin-left: 10px;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox .pic {
   width: 50px;
   height: 50px;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox .pic img {
   width: 100%;
   height: 100%;
   border-radius: 5px;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox .music {
   margin-left: 10px;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox .music .title {
   margin-bottom: -10px;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox .music .title p {
   font-family: "Inter-SemiBold";
   font-weight: 600;
   color: #000;
   font-size: 13px;
 }
+
 .container .objects .playlistposition .bigbox .box .musicbox .music .artist p {
   font-family: "Inter-Medium";
   font-weight: 500;
   color: #DEDEDE;
   font-size: 11px;
 }
+
 .container .objects .playlistposition .bigbox .box .moreIcon {
   width: 15px;
   height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin-right: 10px;
 }
+
 .container .objects .playlistposition .bigbox .box .moreIcon img {
   width: 100%;
   height: 100%;
-}/*# sourceMappingURL=Playlist.module.css.map */
+}
+/*# sourceMappingURL=Playlist.module.css.map */

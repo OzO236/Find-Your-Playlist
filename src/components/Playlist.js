@@ -9,9 +9,7 @@ import homeIcon from '../asset/homeIcon.png';
 import { useNavigate } from 'react-router-dom';
 
 
-const Playlist = () => {
-
-  const resultData = 1;
+const Playlist = ({ resultData }) => {
 
   const selectedPlaylistData = lists.find(data => data.id === resultData);
   console.log(selectedPlaylistData);

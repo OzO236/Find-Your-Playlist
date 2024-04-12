@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from '../styles/Playlist.module.css';
 import lists from './Playlists.json';
-import appleIcon from '../asset/applemusicIcon.png';
+// import appleIcon from '../asset/applemusicIcon.png';
 import melonIcon from '../asset/melonIcon.png';
 import ytIcon from '../asset/ytmusicIcon.png';
 import moreIcon from '../asset/moreIcon.png';
@@ -54,14 +54,14 @@ const Playlist = ({ resultData }) => {
             <p>Go to Playlist</p>
           </div>
           <div className={styles.icons}>
-            <div className={styles.icon}>
+            {/* <div className={styles.icon}>
               <a href={selectedPlaylistData.appleshare}><img src={appleIcon} alt="no appleIcon" /></a>
+            </div> */}
+            <div className={styles.icon}>
+              <a href={selectedPlaylistData.melonshare} target='_blank'><img src={melonIcon} alt="no melonIcon" /></a>
             </div>
             <div className={styles.icon}>
-              <a href={selectedPlaylistData.melonshare}><img src={melonIcon} alt="no melonIcon" /></a>
-            </div>
-            <div className={styles.icon}>
-              <a href={selectedPlaylistData.ytshare}><img src={ytIcon} alt="no ytIcon" /></a>
+              <a href={selectedPlaylistData.ytshare} target='_blank'><img src={ytIcon} alt="no ytIcon" /></a>
             </div>
           </div>
         </div>

@@ -11,7 +11,16 @@ import { useNavigate } from 'react-router-dom';
 
 const Playlist = ({ resultData }) => {
 
-  const selectedPlaylistData = lists.find(data => data.id === resultData);
+  const navigate = useNavigate();
+
+  console.log(resultData);
+
+  const selectedPlaylistData = lists.find(data => data.id == resultData);
+
+  if (!selectedPlaylistData) {
+    return <div>No playlist found</div>;
+  }
+  console.log(selectedPlaylistData.id);
   console.log(selectedPlaylistData);
   console.log(selectedPlaylistData.titlepicture);
 
@@ -20,8 +29,6 @@ const Playlist = ({ resultData }) => {
   const shuffledPlaylist = selectedPlaylistData.playlist.sort(() => 0.5 - Math.random());
   const selectedSongs = shuffledPlaylist.slice(0, 6);
   console.log(selectedSongs);
-  
-  const navigate = useNavigate();
 
   return (
     <div className={styles.container}>

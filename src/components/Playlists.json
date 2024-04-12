@@ -1,0 +1,1624 @@
+[
+  {
+    "id": 0,
+    "name": "눈물이 차올라서 고갤 들어🥹",
+    "titlepicture": "벅참",
+    "appleshare": "https://youtu.be/xbEUaaRlZl4?si=BJXOUvjvQtFFElis",
+    "melonshare": "https://youtu.be/W6cnRRTJF6c?si=vsW-xyGVWUew9-Of",
+    "ytshare": "https://youtu.be/7R9Kmv6x8hI?si=qN_Mnrmptgp4um7v",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "바래",
+        "artist": "Day6",
+        "albumimg": "https://cdnimg.melon.co.kr/cm/album/images/026/76/264/2676264_500.jpg/melon/resize/282/quality/80/optimize"
+      },
+      {
+        "id": 1,
+        "title": "쏟아진다",
+        "artist": "Day6",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F278%2F2278181.jpg%3Ftype%3Dr204Fll%26v%3D20230104162518"
+      },
+      {
+        "id": 2,
+        "title": "겨울동화",
+        "artist": "라붐",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F647%2F1647835.jpg%3Ftype%3Dr204Fll%26v%3D20230105041012"
+      },
+      {
+        "id": 3,
+        "title": "봄의 나라의 이야기",
+        "artist": "April",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F772%2F1772173.jpg%3Ftype%3Dr204Fll%26v%3D20230121003538&type=os121_121"
+      },
+      {
+        "id": 4,
+        "title": "영원히 너와 꿈꾸고 싶다",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F167%2F167954.jpg%3Ftype%3Dr204Fll%26v%3D20230531220208"
+      },
+      {
+        "id": 5,
+        "title": "아름다워",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F369%2F369945.jpg%3Ftype%3Dr204Fll%26v%3D20230531220156"
+      },
+      {
+        "id": 6,
+        "title": "내가갈게",
+        "artist": "BOYFRIEND",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F306%2F306149.jpg%3Ftype%3Dr204Fll%26v%3D20231005182541"
+      },
+      {
+        "id": 7,
+        "title": "Heart To Heart",
+        "artist": "4minute",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F193%2F193677.jpg%3Ftype%3Dr204Fll%26v%3D20230103195032"
+      },
+      {
+        "id": 8,
+        "title": "better and better",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F524%2F7524225.jpg%3Ftype%3Dr204Fll%26v%3D20230220173922"
+      },
+      {
+        "id": 9,
+        "title": "Nectar",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F039%2F31039504.jpg%3Ftype%3Dr204Fll%26v%3D20240315180452"
+      },
+      {
+        "id": 10,
+        "title": "Our Summer",
+        "artist": "TOMORROW X TOGETHER",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F899%2F2899934.jpg%3Ftype%3Dr204Fll%26v%3D20220518163516"
+      },
+      {
+        "id": 11,
+        "title": "Goodbye",
+        "artist": "B.A.P",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F325%2F325179.jpg%3Ftype%3Dr204Fll%26v%3D20230103210013"
+      },
+      {
+        "id": 12,
+        "title": "같은 곳에서",
+        "artist": "소녀온탑",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F625%2F625739.jpg%3Ftype%3Dr204Fll%26v%3D20230104201021&type=os121_121"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "오죠사마를 위해 말아 온 플리🎀",
+    "titlepicture": "공주",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "미행",
+        "artist": "f(x)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F388%2F388594.jpg%3Ftype%3Dr204Fll%26v%3D20240228181552"
+      },
+      {
+        "id": 1,
+        "title": "여우 같은 내 친구 (No More)",
+        "artist": "f(x)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F388%2F388594.jpg%3Ftype%3Dr204Fll%26v%3D20240228181552"
+      },
+      {
+        "id": 2,
+        "title": "아잉♡",
+        "artist": "오렌지캬라멜",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F330%2F330656.jpg%3Ftype%3Dr204Fll%26v%3D20230120194533"
+      },
+      {
+        "id": 3,
+        "title": "Chu~♡",
+        "artist": "f(x)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F164%2F164144.jpg%3Ftype%3Dr204Fll%26v%3D20240228181520"
+      },
+      {
+        "id": 4,
+        "title": "Baddie",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F414%2F10414601.jpg%3Ftype%3Dr204Fll%26v%3D20240226232518"
+      },
+      {
+        "id": 5,
+        "title": "Pretty Girl",
+        "artist": "카라",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F150%2F150563.jpg%3Ftype%3Dr204Fll%26v%3D20230103222529"
+      },
+      {
+        "id": 6,
+        "title": "하니",
+        "artist": "카라",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F150%2F150563.jpg%3Ftype%3Dr204Fll%26v%3D20230103222529"
+      },
+      {
+        "id": 7,
+        "title": "Kitsch",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F334%2F9334427.jpg%3Ftype%3Dr204Fll%26v%3D20240225013026"
+      },
+      {
+        "id": 8,
+        "title": "STEP",
+        "artist": "카라",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F205%2F205940.jpg%3Ftype%3Dr204Fll%26v%3D20240127010251"
+      },
+      {
+        "id": 9,
+        "title": "예쁜 게 죄",
+        "artist": "April",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F564%2F2564862.jpg%3Ftype%3Dr204Fll%26v%3D20220523101511"
+      },
+      {
+        "id": 10,
+        "title": "YEPPI YEPPI",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F451%2F6451344.jpg%3Ftype%3Dr204Fll%26v%3D20231211171413"
+      },
+      {
+        "id": 11,
+        "title": "Pretty Savage",
+        "artist": "BLACKPINK",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F983%2F4983288.jpg%3Ftype%3Dr204Fll%26v%3D20240214140521"
+      },
+      {
+        "id": 12,
+        "title": "Better Things",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F189%2F10189554.jpg%3Ftype%3Dr204Fll%26v%3D20240226154513"
+      },
+      {
+        "id": 13,
+        "title": "My satisfaction",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F969%2F7969069.jpg%3Ftype%3Dr204Fll%26v%3D20240221092523"
+      },
+      {
+        "id": 14,
+        "title": "Dancing Queen",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F359%2F359839.jpg%3Ftype%3Dr204Fll%26v%3D20230531220623"
+      },
+      {
+        "id": 15,
+        "title": "단짝 (My Best Friend)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F181%2F181263.jpg%3Ftype%3Dr204Fll%26v%3D20230104133529"
+      },
+      {
+        "id": 16,
+        "title": "힘 내! (Way To Go)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F151%2F151661.jpg%3Ftype%3Dr204Fll%26v%3D20230531220044"
+      },
+      {
+        "id": 17,
+        "title": "화성인 바이러스 (Boys & Girls)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F167%2F167954.jpg%3Ftype%3Dr204Fll%26v%3D20230531220208"
+      },
+      {
+        "id": 18,
+        "title": "Twinkle",
+        "artist": "소녀시대-태티서",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F319%2F319313.jpg%3Ftype%3Dr204Fll%26v%3D20231211171243"
+      },
+      {
+        "id": 19,
+        "title": "예뻐 예뻐",
+        "artist": "레이디스 코드",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F393%2F393824.jpg%3Ftype%3Dr204Fll%26v%3D20230103143030"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "정답은 spicy 청양고추 vibe🌶️",
+    "titlepicture": "고추",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "맛 (Hot Sauce)",
+        "artist": "NCT DREAM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F802%2F5802115.jpg%3Ftype%3Dr204Fll%26v%3D20231211171414"
+      },
+      {
+        "id": 1,
+        "title": "Spicy",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F620%2F9620172.jpg%3Ftype%3Dr204Fll%26v%3D20230724192305"
+      },
+      {
+        "id": 2,
+        "title": "BOUNCY (K-HOT CHILLI PEPPERS)",
+        "artist": "ATEEZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F747%2F9747442.jpg%3Ftype%3Dr204Fll%26v%3D20230724190958"
+      },
+      {
+        "id": 3,
+        "title": "락 (樂)",
+        "artist": "Stray Kids",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F255%2F30255208.jpg%3Ftype%3Dr204Fll%26v%3D20240227090520"
+      },
+      {
+        "id": 4,
+        "title": "소리꾼",
+        "artist": "Stray Kids",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F368%2F6368367.jpg%3Ftype%3Dr204Fll%26v%3D20230817181050"
+      },
+      {
+        "id": 5,
+        "title": "스트레스 (Stress)",
+        "artist": "태연",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F588%2F588293.jpg%3Ftype%3Dr204Fll%26v%3D20240128222511"
+      },
+      {
+        "id": 6,
+        "title": "Ready to Fight",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F113%2F9113175.jpg%3Ftype%3Dr204Fll%26v%3D20240224095510"
+      },
+      {
+        "id": 7,
+        "title": "Jopping",
+        "artist": "SuperM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F206%2F3206533.jpg%3Ftype%3Dr204Fll%26v%3D20230531220439"
+      },
+      {
+        "id": 8,
+        "title": "달려라 방탄",
+        "artist": "방탄소년단",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F591%2F7591261.jpg%3Ftype%3Dr204Fll%26v%3D20240220143032"
+      },
+      {
+        "id": 9,
+        "title": "Kitsch",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F334%2F9334427.jpg%3Ftype%3Dr204Fll%26v%3D20240225013026"
+      },
+      {
+        "id": 10,
+        "title": "WONDERLAND",
+        "artist": "ATEEZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F207%2F3207796.jpg%3Ftype%3Dr204Fll%26v%3D20220524233015"
+      },
+      {
+        "id": 11,
+        "title": "Cherry Bomb",
+        "artist": "NCT 127",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F065%2F2065282.jpg%3Ftype%3Dr204Fll%26v%3D20230531160312"
+      },
+      {
+        "id": 12,
+        "title": "Obsession",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F552%2F3552751.jpg%3Ftype%3Dr204Fll%26v%3D20230531220359"
+      },
+      {
+        "id": 13,
+        "title": "LIGHTSABER",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F597%2F597129.jpg%3Ftype%3Dr204Fll%26v%3D20230531160132"
+      },
+      {
+        "id": 14,
+        "title": "TRANSFORMER",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F500%2F500145.jpg%3Ftype%3Dr204Fll%26v%3D20231211171240"
+      },
+      {
+        "id": 15,
+        "title": "Let Out The Beast",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F381%2F381432.jpg%3Ftype%3Dr204Fll%26v%3D20231211171218"
+      },
+      {
+        "id": 16,
+        "title": "aenergy",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F451%2F6451344.jpg%3Ftype%3Dr204Fll%26v%3D20231211171413"
+      },
+      {
+        "id": 17,
+        "title": "NO MERCY",
+        "artist": "B.A.P",
+        "albumimg": "https://cdnimg.melon.co.kr/cm/album/images/026/76/264/2676264_500.jpg/melon/resize/282/quality/80/optimize"
+      },
+      {
+        "id": 18,
+        "title": "warrior",
+        "artist": "비에이피",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F326%2F326035.jpg%3Ftype%3Dr204Fll%26v%3D20230103003034"
+      },
+      {
+        "id": 19,
+        "title": "승전가",
+        "artist": "Stray Kids",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F957%2F2957863.jpg%3Ftype%3Dr204Fll%26v%3D20231220160516"
+      },
+      {
+        "id": 20,
+        "title": "TOPLINE",
+        "artist": "Stray Kids",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F727%2F9727516.jpg%3Ftype%3Dr204Fll%26v%3D20240225184016"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "왕관을 쓰려는 자 그 무게를 견더라👑",
+    "titlepicture": "웅장",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "야누스 (JANUS)",
+        "artist": "보이프렌드",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F335%2F335563.jpg%3Ftype%3Dr204Fll%26v%3D20231005182033"
+      },
+      {
+        "id": 1,
+        "title": "PTT (Paint The Town)",
+        "artist": "이달의 소녀",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F100%2F6100666.jpg%3Ftype%3Dr204Fll%26v%3D20240217090520"
+      },
+      {
+        "id": 2,
+        "title": "Run For Roses",
+        "artist": "NMIXX",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F422%2F30422387.jpg%3Ftype%3Dr204Fll%26v%3D20240116095016"
+      },
+      {
+        "id": 3,
+        "title": "Drama",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F254%2F30254000.jpg%3Ftype%3Dr204Fll%26v%3D20231110151411"
+      },
+      {
+        "id": 4,
+        "title": "Bite Me",
+        "artist": "ENHYPEN",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F701%2F9701616.jpg%3Ftype%3Dr204Fll%26v%3D20230728215835"
+      },
+      {
+        "id": 5,
+        "title": "Answer",
+        "artist": "ATEEZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F363%2F4363411.jpg%3Ftype%3Dr204Fll%26v%3D20220506080522"
+      },
+      {
+        "id": 6,
+        "title": "Fact Check (불가사의; 不可思議)",
+        "artist": "NCT 127",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F484%2F10484370.jpg%3Ftype%3Dr204Fll%26v%3D20231027175910"
+      },
+      {
+        "id": 7,
+        "title": "Superhuman",
+        "artist": "NCT 127",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F050%2F3050517.jpg%3Ftype%3Dr204Fll%26v%3D20230531220131"
+      },
+      {
+        "id": 8,
+        "title": "DUN DUN",
+        "artist": "EVERGLOW",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F436%2F4436073.jpg%3Ftype%3Dr204Fll%26v%3D20220527102020"
+      },
+      {
+        "id": 9,
+        "title": "LA DI DA",
+        "artist": "EVERGLOW",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F952%2F4952613.jpg%3Ftype%3Dr204Fll%26v%3D20220602144256"
+      },
+      {
+        "id": 10,
+        "title": "Holy Moly",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F414%2F10414601.jpg%3Ftype%3Dr204Fll%26v%3D20240226232518"
+      },
+      {
+        "id": 11,
+        "title": "My Satisfaction",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F969%2F7969069.jpg%3Ftype%3Dr204Fll%26v%3D20240221092523"
+      },
+      {
+        "id": 12,
+        "title": "Midnight Circus",
+        "artist": "써니힐",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F197%2F197375.jpg%3Ftype%3Dr204Fll%26v%3D20230103002527"
+      },
+      {
+        "id": 13,
+        "title": "POWER",
+        "artist": "B.A.P",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F319%2F319168.jpg%3Ftype%3Dr204Fll%26v%3D20230103134023"
+      },
+      {
+        "id": 14,
+        "title": "CHECKMATE (Stage Ver.)",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F952%2F4952616.jpg%3Ftype%3Dr204Fll%26v%3D20240214123522"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "레몬 백 개 넣은 블루레몬에이드🍋",
+    "titlepicture": "청량",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "My My",
+        "artist": "세븐틴",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F600%2F4600085.jpg%3Ftype%3Dr204Fll%26v%3D20230526184539"
+      },
+      {
+        "id": 1,
+        "title": "WAVE",
+        "artist": "ATEEZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F066%2F3066996.jpg%3Ftype%3Dr204Fll%26v%3D20220524233015"
+      },
+      {
+        "id": 2,
+        "title": "BFF",
+        "artist": "TWS",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F624%2F30624437.jpg%3Ftype%3Dr204Fll%26v%3D20240122175901&type=os121_121"
+      },
+      {
+        "id": 3,
+        "title": "Love Sick",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F541%2F541398.jpg%3Ftype%3Dr204Fll%26v%3D20230531160148"
+      },
+      {
+        "id": 4,
+        "title": "MBTI",
+        "artist": "JUST B",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F6c4f2e74%2F1481%2F4c7e%2F8195%2Ffdacb201b707%2F8998154.jpg%3Ftype%3Dr204Fll%26v%3D20230213114827&type=os121_121"
+      },
+      {
+        "id": 5,
+        "title": "Look At Me Now",
+        "artist": "양요섭",
+        "albumimg": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.genie.co.kr%2FY%2FIMAGE%2FIMG_ALBUM%2F080%2F328%2F423%2F80328423_1353893581859_1_600x600.JPG&type=fff208_208"
+      },
+      {
+        "id": 6,
+        "title": "SPICE",
+        "artist": "n.SSign",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F086%2F10086053.jpg%3Ftype%3Dr204Fll%26v%3D20240226105513"
+      },
+      {
+        "id": 7,
+        "title": "Trigger the fever",
+        "artist": "NCT DREAM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F852%2F1852724.jpg%3Ftype%3Dr204Fll%26v%3D20230531160243"
+      },
+      {
+        "id": 8,
+        "title": "Fire Eyes",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F142%2F10142335.jpg%3Ftype%3Dr204Fll%26v%3D20240226131016"
+      },
+      {
+        "id": 9,
+        "title": "Clover",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F034%2F3034574.jpg%3Ftype%3Dr204Fll%26v%3D20240210141024&type=os121_121"
+      },
+      {
+        "id": 10,
+        "title": "Water",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F147%2F3147178.jpg%3Ftype%3Dr204Fll%26v%3D20240211140523&type=os121_121"
+      },
+      {
+        "id": 11,
+        "title": "BUMP BUMP",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F094%2F5094954.jpg%3Ftype%3Dr204Fll%26v%3D20230220173939"
+      },
+      {
+        "id": 12,
+        "title": "What U do?",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F112%2F2112853.jpg%3Ftype%3Dr204Fll%26v%3D20230531160335"
+      },
+      {
+        "id": 13,
+        "title": "Boyfriend",
+        "artist": "보이프렌드",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F196%2F196985.jpg%3Ftype%3Dr204Fll%26v%3D20231005183021"
+      },
+      {
+        "id": 14,
+        "title": "교환일기 (두밧두 와리와리)",
+        "artist": "TOMORROW X TOGETHER",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F306%2F6306279.jpg%3Ftype%3Dr204Fll%26v%3D20230524152422"
+      },
+      {
+        "id": 15,
+        "title": "히치하이킹 (Hitchhiking)",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F369%2F369945.jpg%3Ftype%3Dr204Fll%26v%3D20230531220156"
+      },
+      {
+        "id": 16,
+        "title": "이별공식",
+        "artist": "VIXX",
+        "albumimg": "https://search.pstatic.net/common?type=f&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F492%2F492635.jpg%3Ftype%3Dr480Fll%26v%3D20230331121248"
+      },
+      {
+        "id": 17,
+        "title": "Girls, Girls, Girls",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F369%2F369945.jpg%3Ftype%3Dr204Fll%26v%3D20230531220156"
+      },
+      {
+        "id": 18,
+        "title": "Cover Girl",
+        "artist": "인피니트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F207%2F207782.jpg%3Ftype%3Dr204Fll%26v%3D20231005182043"
+      },
+      {
+        "id": 19,
+        "title": "WISH (Korean Ver.)",
+        "artist": "NCT WISH",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F892%2F30892731.jpg%3Ftype%3Dr204Fll%26v%3D20240306102437&type=os121_121"
+      },
+      {
+        "id": 20,
+        "title": "Queen Of The Party",
+        "artist": "WENDY",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F027%2F31027337.jpg%3Ftype%3Dr204Fll%26v%3D20240312184408"
+      },
+      {
+        "id": 21,
+        "title": "Countdown (BELLE Solo)",
+        "artist": "KISS OF LIFE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F756%2F9756412.jpg%3Ftype%3Dr204Fll%26v%3D20240225231511"
+      },
+      {
+        "id": 22,
+        "title": "Play Love Games (HANEUL Solo)",
+        "artist": "KISS OF LIFE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F756%2F9756412.jpg%3Ftype%3Dr204Fll%26v%3D20240225231511"
+      },
+      {
+        "id": 23,
+        "title": "빛을 따라서 (Shining Bright)",
+        "artist": "첫사랑",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F338%2F9338956.jpg%3Ftype%3Dr204Fll%26v%3D20240225015515"
+      },
+      {
+        "id": 24,
+        "title": "왠지 (Somehow)",
+        "artist": "다이아",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F583%2F583688.jpg%3Ftype%3Dr204Fll%26v%3D20230103213040&type=os121_121"
+      },
+      {
+        "id": 25,
+        "title": "Airplane",
+        "artist": "f(x)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F388%2F388594.jpg%3Ftype%3Dr204Fll%26v%3D20240228181552"
+      },
+      {
+        "id": 26,
+        "title": "Whoz That Girl",
+        "artist": "EXID",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F313%2F313500.jpg%3Ftype%3Dr204Fll%26v%3D20230103001516"
+      },
+      {
+        "id": 27,
+        "title": "Lucky Like That",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F850%2F7850774.jpg%3Ftype%3Dr204Fll%26v%3D20231211171409"
+      },
+      {
+        "id": 28,
+        "title": "종이비행기 (Paper Plane)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F850%2F7850774.jpg%3Ftype%3Dr204Fll%26v%3D20231211171409"
+      },
+      {
+        "id": 29,
+        "title": "I'll Be There",
+        "artist": "스피카",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F331%2F331297.jpg%3Ftype%3Dr204Fll%26v%3D20231208140501"
+      },
+      {
+        "id": 30,
+        "title": "Tonight",
+        "artist": "스피카",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F392%2F392730.jpg%3Ftype%3Dr204Fll%26v%3D20231208140502"
+      },
+      {
+        "id": 31,
+        "title": "TAXI",
+        "artist": "조유리",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F145%2F10145542.jpg%3Ftype%3Dr204Fll%26v%3D20240223100444"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "엉덩이 들썩 거리는 그루브 플리🎧",
+    "titlepicture": "엉덩이그루브",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "Blue Blood",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F334%2F9334427.jpg%3Ftype%3Dr204Fll%26v%3D20240225013026"
+      },
+      {
+        "id": 1,
+        "title": "Baggy Jeans",
+        "artist": "NCT U",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F200%2F10200417.jpg%3Ftype%3Dr204Fll%26v%3D20230918160412"
+      },
+      {
+        "id": 2,
+        "title": "Siren",
+        "artist": "RIIZE",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F218%2F31218997.jpg%3Ftype%3Dr204Fll%26v%3D20240403105823&type=os121_121"
+      },
+      {
+        "id": 3,
+        "title": "Yes or No",
+        "artist": "정국",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F154%2F30154015.jpg%3Ftype%3Dr204Fll%26v%3D20240227081516"
+      },
+      {
+        "id": 4,
+        "title": "Like this",
+        "artist": "원더걸스",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F322%2F322240.jpg%3Ftype%3Dr204Fll%26v%3D20230103020047"
+      },
+      {
+        "id": 5,
+        "title": "흠뻑",
+        "artist": "후이",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F760%2F30760630.jpg%3Ftype%3Dr204Fll%26v%3D20240118164327"
+      },
+      {
+        "id": 6,
+        "title": "아드레날린 (Adrenaline)",
+        "artist": "소녀시대-태티서",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F451%2F451967.jpg%3Ftype%3Dr204Fll%26v%3D20230531160219"
+      },
+      {
+        "id": 7,
+        "title": "Parade (행진)",
+        "artist": "NCT 127",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F484%2F10484370.jpg%3Ftype%3Dr204Fll%26v%3D20231027175910"
+      },
+      {
+        "id": 8,
+        "title": "무중력 (Space)",
+        "artist": "NCT 127",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F484%2F10484370.jpg%3Ftype%3Dr204Fll%26v%3D20231027175910"
+      },
+      {
+        "id": 9,
+        "title": "Shoot Me",
+        "artist": "DAY6",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F472%2F2472138.jpg%3Ftype%3Dr204Fll%26v%3D20230105155537"
+      },
+      {
+        "id": 10,
+        "title": "Misfit",
+        "artist": "NCT U",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F035%2F5035639.jpg%3Ftype%3Dr204Fll%26v%3D20240214163008"
+      },
+      {
+        "id": 11,
+        "title": "Rising",
+        "artist": "tripleS",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F008%2F949%2F8949443.jpg%3Ftype%3Dr204Fll%26v%3D20240224072018"
+      },
+      {
+        "id": 12,
+        "title": "샤랄라 (SHALALA)",
+        "artist": "태용",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F732%2F9732402.jpg%3Ftype%3Dr204Fll%26v%3D20230704185028"
+      },
+      {
+        "id": 13,
+        "title": "HARD",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F744%2F9744067.jpg%3Ftype%3Dr204Fll%26v%3D20230704185041"
+      },
+      {
+        "id": 14,
+        "title": "Talk Saxy",
+        "artist": "RIIZE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F112%2F30112592.jpg%3Ftype%3Dr204Fll%26v%3D20231031153711"
+      },
+      {
+        "id": 15,
+        "title": "Press Your Number",
+        "artist": "태민",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F619%2F619917.jpg%3Ftype%3Dr204Fll%26v%3D20231211171155"
+      },
+      {
+        "id": 16,
+        "title": "Tic Toc",
+        "artist": "인피니트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F201%2F201534.jpg%3Ftype%3Dr204Fll%26v%3D20231005182036"
+      },
+      {
+        "id": 17,
+        "title": "With You",
+        "artist": "SuperM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F956%2F4956283.jpg%3Ftype%3Dr204Fll%26v%3D20240214124528"
+      },
+      {
+        "id": 18,
+        "title": "Lemonade",
+        "artist": "NCT 127",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F436%2F6436468.jpg%3Ftype%3Dr204Fll%26v%3D20230531220531"
+      },
+      {
+        "id": 19,
+        "title": "파랗게",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F614%2F4614739.jpg%3Ftype%3Dr204Fll%26v%3D20230220173932"
+      },
+      {
+        "id": 20,
+        "title": "시대유감 (時代遺憾) (2024 aespa Remake Ver.)",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F753%2F30753515.jpg%3Ftype%3Dr204Fll%26v%3D20240325142744"
+      },
+      {
+        "id": 21,
+        "title": "Gravity",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F579%2F2579827.jpg%3Ftype%3Dr204Fll%26v%3D20230531220506"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "혼자 있고 싶으니까 말 걸지 마세요...🤫",
+    "titlepicture": "혼자그루브",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "What Is Love",
+        "artist": "EXO-K",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F317%2F317639.jpg%3Ftype%3Dr204Fll%26v%3D20231211171243"
+      },
+      {
+        "id": 1,
+        "title": "하루 (A Day Without You) (Sung by 종현(샤이니)&CHEN(EXO))",
+        "artist": "S.M. THE BALLAD",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F416%2F416542.jpg%3Ftype%3Dr204Fll%26v%3D20230531160145"
+      },
+      {
+        "id": 2,
+        "title": "INVU",
+        "artist": "태연",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F197%2F7197311.jpg%3Ftype%3Dr204Fll%26v%3D20240326172048"
+      },
+      {
+        "id": 3,
+        "title": "Love War",
+        "artist": "YENA",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F784fc6c9%2F94f8%2F4662%2Fbefa%2F0be7402d49a6%2F8733712.jpg%3Ftype%3Dr204Fll%26v%3D20230113105438"
+      },
+      {
+        "id": 4,
+        "title": "To. X",
+        "artist": "태연",
+        "albumimg": "hhttps://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F408%2F30408961.jpg%3Ftype%3Dr204Fll%26v%3D20231127143132"
+      },
+      {
+        "id": 5,
+        "title": "뚫고 지나가요",
+        "artist": "DAY6 (Even of Day)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F145%2F6145300.jpg%3Ftype%3Dr204Fll%26v%3D20230104045044"
+      },
+      {
+        "id": 6,
+        "title": "EASY",
+        "artist": "LE SSERAFIM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F811%2F30811889.jpg%3Ftype%3Dr204Fll%26v%3D20240405181018"
+      },
+      {
+        "id": 7,
+        "title": "백색소음(White Noise)",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F642%2F642461.jpg%3Ftype%3Dr204Fll%26v%3D20230531160301"
+      },
+      {
+        "id": 8,
+        "title": "내 맘대로 (On my own)",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F094%2F5094954.jpg%3Ftype%3Dr204Fll%26v%3D20230220173939"
+      },
+      {
+        "id": 9,
+        "title": "Nobody Knows",
+        "artist": "KISS OF LIFE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F196%2F30196964.jpg%3Ftype%3Dr204Fll%26v%3D20240227085515"
+      },
+      {
+        "id": 10,
+        "title": "Be Natural",
+        "artist": "Red Velvet",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F457%2F457039.jpg%3Ftype%3Dr204Fll%26v%3D20230531160126"
+      },
+      {
+        "id": 11,
+        "title": "Heart Attack",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F381%2F381432.jpg%3Ftype%3Dr204Fll%26v%3D20231211171218"
+      },
+      {
+        "id": 12,
+        "title": "Kiss of fire",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F451%2F6451280.jpg%3Ftype%3Dr204Fll%26v%3D20230220173924"
+      },
+      {
+        "id": 13,
+        "title": "Fire",
+        "artist": "태연",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F819%2F1819670.jpg%3Ftype%3Dr204Fll%26v%3D20230531160301"
+      },
+      {
+        "id": 14,
+        "title": "Odd Eye",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F541%2F541398.jpg%3Ftype%3Dr204Fll%26v%3D20230531160148"
+      },
+      {
+        "id": 15,
+        "title": "HURT",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F500%2F500145.jpg%3Ftype%3Dr204Fll%26v%3D20231211171240"
+      },
+      {
+        "id": 16,
+        "title": "2 Different Tears",
+        "artist": "원더걸스",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F173%2F173260.jpg%3Ftype%3Dr204Fll%26v%3D20230104072034"
+      },
+      {
+        "id": 17,
+        "title": "Girls Girls",
+        "artist": "원더걸스",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F210%2F210788.jpg%3Ftype%3Dr204Fll%26v%3D20230104135534"
+      },
+      {
+        "id": 18,
+        "title": "사랑이 떠나려 할 때",
+        "artist": "원더걸스",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F565%2F565961.jpg%3Ftype%3Dr204Fll%26v%3D20230103085037"
+      },
+      {
+        "id": 19,
+        "title": "24/7",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F579%2F2579827.jpg%3Ftype%3Dr204Fll%26v%3D20230531220506"
+      },
+      {
+        "id": 20,
+        "title": "Yes or No",
+        "artist": "정국",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F154%2F30154015.jpg%3Ftype%3Dr204Fll%26v%3D20240227081516"
+      },
+      {
+        "id": 21,
+        "title": "다이아몬드 (Diamond)",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F112%2F2112853.jpg%3Ftype%3Dr204Fll%26v%3D20230531160335"
+      },
+      {
+        "id": 22,
+        "title": "오아시스 (Oasis)",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=f&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F579%2F2579827.jpg%3Ftype%3Dr480Fll%26v%3D20230531220506"
+      },
+      {
+        "id": 23,
+        "title": "파라다이스 (Paradise)",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=f&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F975%2F5975887.jpg%3Ftype%3Dr480Fll%26v%3D20230531220521"
+      },
+      {
+        "id": 24,
+        "title": "You Don't Love Me",
+        "artist": "스피카",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F414%2F414375.jpg%3Ftype%3Dr204Fll%26v%3D20231208140457"
+      },
+      {
+        "id": 25,
+        "title": "러시안룰렛 (Russian Roulette)",
+        "artist": "스피카",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F312%2F312782.jpg%3Ftype%3Dr204Fll%26v%3D20231208140459"
+      },
+      {
+        "id": 26,
+        "title": "24/7",
+        "artist": "2YOON(포미닛 투윤)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F367%2F367174.jpg%3Ftype%3Dr204Fll%26v%3D20230103085037"
+      },
+      {
+        "id": 27,
+        "title": "Smoothie",
+        "artist": "NCT DREAM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F069%2F31069521.jpg%3Ftype%3Dr204Fll%26v%3D20240325151518"
+      },
+      {
+        "id": 28,
+        "title": "상사병 (Symptoms)",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F398%2F398367.jpg%3Ftype%3Dr204Fll%26v%3D20231211171216"
+      },
+      {
+        "id": 29,
+        "title": "Lemon Black Tea",
+        "artist": "조유리",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F145%2F10145542.jpg%3Ftype%3Dr204Fll%26v%3D20240223100444"
+      },
+      {
+        "id": 30,
+        "title": "Hang On",
+        "artist": "조유리",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F145%2F10145542.jpg%3Ftype%3Dr204Fll%26v%3D20240223100444"
+      },
+      {
+        "id": 31,
+        "title": "Betcha",
+        "artist": "백현",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F103%2F3103037.jpg%3Ftype%3Dr204Fll%26v%3D20230531220555"
+      },
+      {
+        "id": 32,
+        "title": "Bungee",
+        "artist": "백현",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F578%2F4578019.jpg%3Ftype%3Dr204Fll%26v%3D20230531220306"
+      },
+      {
+        "id": 33,
+        "title": "YOUNG",
+        "artist": "백현 (BAEKHYUN) & 로꼬",
+        "albumimg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/099/805/81099805_1535697273123_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id": 34,
+        "title": "Diamond",
+        "artist": "백현",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F103%2F3103037.jpg%3Ftype%3Dr204Fll%26v%3D20230531220555"
+      },
+      {
+        "id": 35,
+        "title": "Love Scene",
+        "artist": "백현",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F470%2F5470981.jpg%3Ftype%3Dr204Fll%26v%3D20230531220145"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "니가 내 별이다...☆",
+    "titlepicture": "아련",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "Tide",
+        "artist": "WOODZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F094%2F5094954.jpg%3Ftype%3Dr204Fll%26v%3D20230220173939"
+      },
+      {
+        "id": 1,
+        "title": "Can You Smile (Remake)",
+        "artist": "인피니트",
+        "albumimg": "https://search.pstatic.net/common?type=f&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F192%2F192393.jpg%3Ftype%3Dr480Fll%26v%3D20231005182550"
+      },
+      {
+        "id": 2,
+        "title": "혜야 (Y Si Fuera Ella)",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F146%2F146317.jpg%3Ftype%3Dr204Fll%26v%3D20230531220159"
+      },
+      {
+        "id": 3,
+        "title": "Crying",
+        "artist": "BOYNEXTDOOR",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/010/223/10223510.jpg?type=r480Fll&v=20240226200006"
+      },
+      {
+        "id": 4,
+        "title": "그리움이 닿는 곳에",
+        "artist": "인피니트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F372%2F372898.jpg%3Ftype%3Dr204Fll%26v%3D20231005182028"
+      },
+      {
+        "id": 5,
+        "title": "이제 날 안아요",
+        "artist": "블락비",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F440%2F440063.jpg%3Ftype%3Dr204Fll%26v%3D20230103075030"
+      },
+      {
+        "id": 6,
+        "title": "넌 어디에",
+        "artist": "블락비",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F008%2F326%2F8326999.jpg%3Ftype%3Dr204Fll%26v%3D20240223013519"
+      },
+      {
+        "id": 7,
+        "title": "봄날의 소나기 (Paper Umbrella)",
+        "artist": "예성",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F999%2F1999249.jpg%3Ftype%3Dr204Fll%26v%3D20230531160254"
+      },
+      {
+        "id": 8,
+        "title": "Floral Sense",
+        "artist": "예성",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F194%2F9194946.jpg%3Ftype%3Dr204Fll%26v%3D20230531220312"
+      },
+      {
+        "id": 9,
+        "title": "1년 後 (One Year Later)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F186%2F186417.jpg%3Ftype%3Dr204Fll%26v%3D20230531220051"
+      },
+      {
+        "id": 10,
+        "title": "좋았던 건, 아팠던 건 (When I Was... When U Were...) (Sung By f(KRYSTAL) & CHEN(EXO))",
+        "artist": "S.M. THE BALLAD",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F417%2F417021.jpg%3Ftype%3Dr204Fll%26v%3D20230531160203"
+      },
+      {
+        "id": 11,
+        "title": "너는 나만큼 (Growing Pains)",
+        "artist": "SUPER JUNIOR-D&E",
+        "albumimg": "https://search.pstatic.net/sunny?src=http%3A%2F%2Fimage.genie.co.kr%2FY%2FIMAGE%2FIMG_ALBUM%2F080%2F528%2F469%2F80528469_1425539435334_1_600x600.JPG&type=fff208_208"
+      },
+      {
+        "id": 12,
+        "title": "유리아이 (Lost in Love)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F359%2F359839.jpg%3Ftype%3Dr204Fll%26v%3D20230531220623"
+      },
+      {
+        "id": 13,
+        "title": "방백 (Aside)",
+        "artist": "SHINee",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/000/369/369945.jpg?type=r480Fll&v=20230531220156"
+      },
+      {
+        "id": 14,
+        "title": "야간비행 (Turbulence)",
+        "artist": "ATEEZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F728%2F6728488.jpg%3Ftype%3Dr204Fll%26v%3D20240229142910"
+      },
+      {
+        "id": 15,
+        "title": "너와 나의 거리 (Selene 6.23)",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F390%2F390449.jpg%3Ftype%3Dr204Fll%26v%3D20231211171218"
+      },
+      {
+        "id": 16,
+        "title": "I'm Crying (Korean Ver.)",
+        "artist": "태민",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/002/290/2290659.jpg?type=r480Fll&v=20231211171153"
+      },
+      {
+        "id": 17,
+        "title": "그렇게 너에게 도착하였다 (Landed)",
+        "artist": "DAY6 (Even of Day)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F871%2F4871702.jpg%3Ftype%3Dr204Fll%26v%3D20220602165901"
+      },
+      {
+        "id": 18,
+        "title": "니가 보고 싶어지면",
+        "artist": "비스트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F326%2F326358.jpg%3Ftype%3Dr204Fll%26v%3D20230810182029"
+      },
+      {
+        "id": 19,
+        "title": "하던 대로 해",
+        "artist": "양요섭",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F337%2F337251.jpg%3Ftype%3Dr204Fll%26v%3D20230102183532"
+      },
+      {
+        "id": 20,
+        "title": "너의 노래가 되어 (An Ode To You)",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F541%2F541398.jpg%3Ftype%3Dr204Fll%26v%3D20230531160148"
+      },
+      {
+        "id": 21,
+        "title": "Anti-Romantic",
+        "artist": "TOMORROW X TOGETHER",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F911%2F5911060.jpg%3Ftype%3Dr204Fll%26v%3D20231211171149"
+      },
+      {
+        "id": 22,
+        "title": "Leave",
+        "artist": "Stray Kids",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F255%2F30255208.jpg%3Ftype%3Dr204Fll%26v%3D20240227090520"
+      },
+      {
+        "id": 23,
+        "title": "This Time",
+        "artist": "원더걸스",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F142%2F142678.jpg%3Ftype%3Dr204Fll%26v%3D20230103154040"
+      },
+      {
+        "id": 24,
+        "title": "빗소리",
+        "artist": "B.A.P",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F366%2F366928.jpg%3Ftype%3Dr204Fll%26v%3D20230103092018"
+      },
+      {
+        "id": 25,
+        "title": "소나기",
+        "artist": "아이오아이",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F775%2F1775804.jpg%3Ftype%3Dr204Fll%26v%3D20230121010025"
+      },
+      {
+        "id": 26,
+        "title": "별별별 (☆★☆)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F167%2F167954.jpg%3Ftype%3Dr204Fll%26v%3D20230531220208"
+      },
+      {
+        "id": 27,
+        "title": "The Day",
+        "artist": "케이윌, 백현(BAEKHYUN)",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/000/636/636996.jpg?type=r480Fll&v=20230531160213"
+      },
+      {
+        "id": 28,
+        "title": "이 밤 너의 곁으로",
+        "artist": "비스트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F434%2F434615.jpg%3Ftype%3Dr204Fll%26v%3D20230810183041"
+      },
+      {
+        "id": 29,
+        "title": "Beautiful Liar",
+        "artist": "빅스LR",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F572%2F572290.jpg%3Ftype%3Dr204Fll%26v%3D20230102213535"
+      },
+      {
+        "id": 30,
+        "title": "2 KIDS",
+        "artist": "태민",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F757%2F4757040.jpg%3Ftype%3Dr204Fll%26v%3D20230531220257"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "봄냄새 가득나는 플리🌸",
+    "titlepicture": "봄",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "Feel My Rhythm",
+        "artist": "Red Velvet",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F421%2F7421466.jpg%3Ftype%3Dr204Fll%26v%3D20230531220344"
+      },
+      {
+        "id": 1,
+        "title": "Serenade",
+        "artist": "BOYNEXTDOOR",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F223%2F10223510.jpg%3Ftype%3Dr204Fll%26v%3D20240226200006&type=os121_121"
+      },
+      {
+        "id": 2,
+        "title": "사랑하게 될 거야 (We Must Love)",
+        "artist": "온앤오프",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F835%2F2835389.jpg%3Ftype%3Dr204Fll%26v%3D20240210025509"
+      },
+      {
+        "id": 3,
+        "title": "Bloom Bloom",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F034%2F3034574.jpg%3Ftype%3Dr204Fll%26v%3D20240210141024"
+      },
+      {
+        "id": 4,
+        "title": "Queen Of The Party",
+        "artist": "WENDY",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F027%2F31027337.jpg%3Ftype%3Dr204Fll%26v%3D20240312184408"
+      },
+      {
+        "id": 5,
+        "title": "봄날 (How Great Is Your Love)",
+        "artist": "소녀시대",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/000/207/207992.jpg?type=r480Fll&v=20231211171216"
+      },
+      {
+        "id": 6,
+        "title": "Butterfly",
+        "artist": "제시카(Jessica), 크리스탈(KRYSTAL)",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/000/328/328257.jpg?type=r360Fll&v=20240228181534"
+      },
+      {
+        "id": 7,
+        "title": "나야 (It's Me)",
+        "artist": "써니 (SUNNY), 루나 (LUNA)",
+        "albumimg": "https://cdnimg.melon.co.kr/cm/album/images/021/46/086/2146086_500.jpg?714b3861ead987e8249b45a13c5a2062/melon/resize/282/quality/80/optimize"
+      },
+      {
+        "id": 8,
+        "title": "별빛달빛",
+        "artist": "시크릿",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F197%2F197329.jpg%3Ftype%3Dr204Fll%26v%3D20230102204034"
+      },
+      {
+        "id": 9,
+        "title": "그 길에서",
+        "artist": "다이아",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F643%2F643359.jpg%3Ftype%3Dr204Fll%26v%3D20230104225031"
+      },
+      {
+        "id": 10,
+        "title": "Baby Baby",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F137%2F137257.jpg%3Ftype%3Dr204Fll%26v%3D20231211171246"
+      },
+      {
+        "id": 11,
+        "title": "좋은 일만 생각하기 (Day By Day)",
+        "artist": "소녀시대",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F167%2F167954.jpg%3Ftype%3Dr204Fll%26v%3D20230531220208"
+      },
+      {
+        "id": 12,
+        "title": "하니",
+        "artist": "카라",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F150%2F150563.jpg%3Ftype%3Dr204Fll%26v%3D20230103222529"
+      },
+      {
+        "id": 13,
+        "title": "My World",
+        "artist": "아일릿",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F069%2F31069538.jpg%3Ftype%3Dr204Fll%26v%3D20240325182858&type=os121_121"
+      },
+      {
+        "id": 14,
+        "title": "Airplane",
+        "artist": "f(x)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F388%2F388594.jpg%3Ftype%3Dr204Fll%26v%3D20240228181552"
+      },
+      {
+        "id": 15,
+        "title": "Better Days",
+        "artist": "SuperM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F956%2F4956283.jpg%3Ftype%3Dr204Fll%26v%3D20240214124528"
+      },
+      {
+        "id": 16,
+        "title": "Little Little",
+        "artist": "Red Velvet",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F778%2F1778330.jpg%3Ftype%3Dr204Fll%26v%3D20240128053524"
+      },
+      {
+        "id": 17,
+        "title": "데이지",
+        "artist": "펜타곤",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F035%2F5035564.jpg%3Ftype%3Dr204Fll%26v%3D20240214163008&type=os121_121"
+      },
+      {
+        "id": 18,
+        "title": "벚꽃이 지면",
+        "artist": "아이오아이",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F635%2F635565.jpg%3Ftype%3Dr204Fll%26v%3D20230104141038"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "숨듣수(a.k.a. 숨어서 듣는 수록곡)👻",
+    "titlepicture": "숨듣수",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "Run For Roses",
+        "artist": "NMIXX",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F422%2F30422387.jpg%3Ftype%3Dr204Fll%26v%3D20240116095016"
+      },
+      {
+        "id": 1,
+        "title": "사랑하게 될 거야 (We Must Love)",
+        "artist": "온앤오프",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F835%2F2835389.jpg%3Ftype%3Dr204Fll%26v%3D20240210025509"
+      },
+      {
+        "id": 2,
+        "title": "Sail Away (Korean Ver.)",
+        "artist": "NCT WISH",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F892%2F30892731.jpg%3Ftype%3Dr204Fll%26v%3D20240306102437"
+      },
+      {
+        "id": 3,
+        "title": "Yes or No",
+        "artist": "정국",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F154%2F30154015.jpg%3Ftype%3Dr204Fll%26v%3D20240227081516"
+      },
+      {
+        "id": 4,
+        "title": "다이아몬드 (Diamond)",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F112%2F2112853.jpg%3Ftype%3Dr204Fll%26v%3D20230531160335"
+      },
+      {
+        "id": 5,
+        "title": "Forever",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F112%2F2112853.jpg%3Ftype%3Dr204Fll%26v%3D20230531160335"
+      },
+      {
+        "id": 6,
+        "title": "Baby",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F381%2F381432.jpg%3Ftype%3Dr204Fll%26v%3D20231211171218&type=os121_121"
+      },
+      {
+        "id": 7,
+        "title": "Survive The Night",
+        "artist": "THE BOYZ",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F884%2F7884455.jpg%3Ftype%3Dr204Fll%26v%3D20240221063522"
+      },
+      {
+        "id": 8,
+        "title": "WINGS",
+        "artist": "방탄소년단",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=190x190&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F811%2F811569.jpg%3Ftype%3Dr204Fll%26v%3D20240129092710"
+      },
+      {
+        "id": 9,
+        "title": "오아시스 (Oasis)",
+        "artist": "EXO",
+        "albumimg": "https://musicmeta-phinf.pstatic.net/album/002/579/2579827.jpg?type=r480Fll&v=20230531220506"
+      },
+      {
+        "id": 10,
+        "title": "파라다이스 (Paradise)",
+        "artist": "EXO",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F975%2F5975887.jpg%3Ftype%3Dr204Fll%26v%3D20230531220521"
+      },
+      {
+        "id": 11,
+        "title": "Wish You Were Here",
+        "artist": "SuperM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F956%2F4956283.jpg%3Ftype%3Dr204Fll%26v%3D20240214124528"
+      },
+      {
+        "id": 12,
+        "title": "The Feeling",
+        "artist": "비투비",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F464%2F2464555.jpg%3Ftype%3Dr204Fll%26v%3D20230121050044"
+      },
+      {
+        "id": 13,
+        "title": "I’m Unhappy",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F620%2F9620172.jpg%3Ftype%3Dr204Fll%26v%3D20230724192305&type=os121_121"
+      },
+      {
+        "id": 14,
+        "title": "나나나",
+        "artist": "비투비",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F234%2F2234706.jpg%3Ftype%3Dr204Fll%26v%3D20230105103554"
+      },
+      {
+        "id": 15,
+        "title": "DICE",
+        "artist": "온유",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F481%2F7481457.jpg%3Ftype%3Dr204Fll%26v%3D20231211171411"
+      },
+      {
+        "id": 16,
+        "title": "그해 그달 그날",
+        "artist": "펜타곤",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F005%2F035%2F5035564.jpg%3Ftype%3Dr204Fll%26v%3D20240214163008"
+      },
+      {
+        "id": 17,
+        "title": "Best Friend",
+        "artist": "NCT DREAM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F003%2F132%2F3132054.jpg%3Ftype%3Dr204Fll%26v%3D20230531220606"
+      },
+      {
+        "id": 18,
+        "title": "Little Little",
+        "artist": "Red Velvet",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F778%2F1778330.jpg%3Ftype%3Dr204Fll%26v%3D20240128053524"
+      },
+      {
+        "id": 19,
+        "title": "My Page",
+        "artist": "NCT DREAM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F154%2F2154621.jpg%3Ftype%3Dr204Fll%26v%3D20230531160307"
+      },
+      {
+        "id": 20,
+        "title": "Serenade",
+        "artist": "BOYNEXTDOOR",
+        "albumimg": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F223%2F10223510.jpg%3Ftype%3Dr204Fll%26v%3D20240226200006&type=os121_121"
+      },
+      {
+        "id": 21,
+        "title": "문 (Moon)",
+        "artist": "NCT DREAM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F008%2F462%2F8462508.jpg%3Ftype%3Dr204Fll%26v%3D20230531220316"
+      },
+      {
+        "id": 22,
+        "title": "Heroine",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F334%2F9334427.jpg%3Ftype%3Dr204Fll%26v%3D20240225013026"
+      },
+      {
+        "id": 23,
+        "title": "Mine",
+        "artist": "IVE",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F009%2F334%2F9334427.jpg%3Ftype%3Dr204Fll%26v%3D20240225013026"
+      },
+      {
+        "id": 24,
+        "title": "Says It",
+        "artist": "KISS OF LIFE",
+        "albumimg": "https://image.bugsm.co.kr/album/images/200/40928/4092859.jpg?version=20240209004216.0"
+      },
+      {
+        "id": 25,
+        "title": "싱크로율 100%",
+        "artist": "블락비",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F319%2F319304.jpg%3Ftype%3Dr204Fll%26v%3D20230103134545"
+      },
+      {
+        "id": 26,
+        "title": "Tell Me What To Do",
+        "artist": "SHINee",
+        "albumimg": "https://search.pstatic.net/common?type=f&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F001%2F528%2F1528337.jpg%3Ftype%3Dr480Fll%26v%3D20230531160321"
+      },
+      {
+        "id": 27,
+        "title": "Midnight (별 헤는 밤)",
+        "artist": "비스트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F325%2F325695.jpg%3Ftype%3Dr204Fll%26v%3D20230810182017"
+      },
+      {
+        "id": 28,
+        "title": "Our Summer",
+        "artist": "TOMORROW X TOGETHER",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F002%2F899%2F2899934.jpg%3Ftype%3Dr204Fll%26v%3D20220518163516"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "요정들의 학교에 몽환의 등장이라...🧚🏻",
+    "titlepicture": "몽환",
+    "playlist": [
+      {
+        "id": 0,
+        "title": "숲의 아이 (Bon voyage)",
+        "artist": "유아",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F883%2F4883637.jpg%3Ftype%3Dr204Fll%26v%3D20240214083017"
+      },
+      {
+        "id": 1,
+        "title": "CLOSER",
+        "artist": "오마이걸",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F588%2F588670.jpg%3Ftype%3Dr204Fll%26v%3D20240128222543"
+      },
+      {
+        "id": 2,
+        "title": "My World",
+        "artist": "아일릿",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F069%2F31069538.jpg%3Ftype%3Dr204Fll%26v%3D20240325182858"
+      },
+      {
+        "id": 3,
+        "title": "너의 세상으로 (Angel)",
+        "artist": "EXO-K",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F317%2F317639.jpg%3Ftype%3Dr204Fll%26v%3D20231211171243"
+      },
+      {
+        "id": 4,
+        "title": "자각몽 (Lucid Dream)",
+        "artist": "aespa",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F006%2F451%2F6451344.jpg%3Ftype%3Dr204Fll%26v%3D20231211171413"
+      },
+      {
+        "id": 5,
+        "title": "Cool With You",
+        "artist": "NewJeans",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F035%2F10035234.jpg%3Ftype%3Dr204Fll%26v%3D20240226054515"
+      },
+      {
+        "id": 6,
+        "title": "ASAP",
+        "artist": "NewJeans",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F010%2F035%2F10035234.jpg%3Ftype%3Dr204Fll%26v%3D20240226054515"
+      },
+      {
+        "id": 7,
+        "title": "Hurt",
+        "artist": "NewJeans",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F007%2F795%2F7795016.jpg%3Ftype%3Dr204Fll%26v%3D20240221013522"
+      },
+      {
+        "id": 8,
+        "title": "한 발짝 두 발짝",
+        "artist": "오마이걸",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F639%2F639892.jpg%3Ftype%3Dr204Fll%26v%3D20240127155731"
+      },
+      {
+        "id": 9,
+        "title": "Be Natural",
+        "artist": "Red Velvet",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F457%2F457039.jpg%3Ftype%3Dr204Fll%26v%3D20230531160126"
+      },
+      {
+        "id": 10,
+        "title": "Swan Song",
+        "artist": "LE SSERAFIM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F811%2F30811889.jpg%3Ftype%3Dr204Fll%26v%3D20240405181018"
+      },
+      {
+        "id": 11,
+        "title": "Underwater",
+        "artist": "백현",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F004%2F578%2F4578019.jpg%3Ftype%3Dr204Fll%26v%3D20230531220306"
+      },
+      {
+        "id": 12,
+        "title": "Rewind",
+        "artist": "원더걸스",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F565%2F565961.jpg%3Ftype%3Dr204Fll%26v%3D20230103085037"
+      },
+      {
+        "id": 13,
+        "title": "Magnetic",
+        "artist": "아일릿",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F031%2F069%2F31069538.jpg%3Ftype%3Dr204Fll%26v%3D20240325182858"
+      },
+      {
+        "id": 14,
+        "title": "Peter Pan",
+        "artist": "핫펠트",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F442%2F442408.jpg%3Ftype%3Dr204Fll%26v%3D20230103020046"
+      },
+      {
+        "id": 15,
+        "title": "Perfect Night",
+        "artist": "LE SSERAFIM",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F030%2F116%2F30116533.jpg%3Ftype%3Dr204Fll%26v%3D20240227064023"
+      },
+      {
+        "id": 16,
+        "title": "Ace",
+        "artist": "태민",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F447%2F447207.jpg%3Ftype%3Dr204Fll%26v%3D20230531160154"
+      },
+      {
+        "id": 17,
+        "title": "비밀 (Secret)",
+        "artist": "태연",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F616%2F616105.jpg%3Ftype%3Dr204Fll%26v%3D20230531160223"
+      },
+      {
+        "id": 18,
+        "title": "4 Walls",
+        "artist": "f(x)",
+        "albumimg": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F593%2F593264.jpg%3Ftype%3Dr204Fll%26v%3D20240228181541"
+      }
+    ]
+  }
+]

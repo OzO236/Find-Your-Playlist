@@ -1,8 +1,12 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import styles from '../styles/Main.module.css';
 import clt from '../asset/main_playctl.png';
 
 const Main = () => {
+
+  const navigate = useNavigate();
+
   return (
     <div className={styles.container}>
       <div className={styles.objects}>
@@ -12,7 +16,7 @@ const Main = () => {
             <div className={styles.chat1}>
               <p>당신의 K-POP 플리를 찾아드림</p>
             </div>
-            <div className={styles.chat2}>
+            <div className={styles.chat2} onClick={()=>{navigate('../question')}}>
               <p>나에게 맞는 K-POP 플리 찾으러 가기</p>
             </div>
           </div>

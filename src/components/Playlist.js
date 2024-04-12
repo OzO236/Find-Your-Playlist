@@ -1,68 +1,45 @@
 import React from 'react';
 import styles from '../styles/Playlist.module.css';
-import pic from '../asset/벅참img.png';
+import lists from './Playlists.json';
 import appleIcon from '../asset/applemusicIcon.png';
 import melonIcon from '../asset/melonIcon.png';
 import ytIcon from '../asset/ytmusicIcon.png';
 import moreIcon from '../asset/moreIcon.png';
-import getaguitar from '../asset/getaguitar.png';
-import stealtheshoe from '../asset/stealtheshow.png';
-import brokenmelodies from '../asset/brokenmelodies.png';
-import antifreeze from '../asset/antifreeze.png';
-import supershy from '../asset/supershy.png';
-import firstsnow from '../asset/첫눈.png';
+import homeIcon from '../asset/homeIcon.png';
+import { useNavigate } from 'react-router-dom';
 
-const songs = [
-  {
-    id: 1,
-    title: 'Get a guitar',
-    artist: 'RIIZE',
-    albumimg: getaguitar
-  },
-  {
-    id: 2,
-    title: 'Steal The Show',
-    artist: 'Lauv',
-    albumimg: stealtheshoe
-  },
-  {
-    id: 3,
-    title: 'Broken Melodies',
-    artist: 'NCT DREAM',
-    albumimg: brokenmelodies
-  },
-  {
-    id: 4,
-    title: 'Antifreeze',
-    artist: '검정치마',
-    albumimg: antifreeze
-  },
-  {
-    id: 5,
-    title: 'Super Shy',
-    artist: 'NewJeans',
-    albumimg: supershy
-  },
-  {
-    id: 6,
-    title: '첫 눈',
-    artist: 'EXO',
-    albumimg: firstsnow
-  }
-]
 
 const Playlist = () => {
+
+  const resultData = 1;
+
+  const selectedPlaylistData = lists.find(data => data.id === resultData);
+  console.log(selectedPlaylistData);
+  console.log(selectedPlaylistData.titlepicture);
+
+  const titlePicture = require(`../asset/${selectedPlaylistData.titlepicture}.png`);
+  
+  const shuffledPlaylist = selectedPlaylistData.playlist.sort(() => 0.5 - Math.random());
+  const selectedSongs = shuffledPlaylist.slice(0, 6);
+  console.log(selectedSongs);
+  
+  const navigate = useNavigate();
+
   return (
     <div className={styles.container}>
       <div className={styles.objects}>
 
+        <div className={styles.homeIcon} onClick={() => {navigate("/")}}>
+          <img src={homeIcon} alt="no homeIcon" />
+        </div>
+
         <div className={styles.mainposition}>
           <div className={styles.mainbox}>
             <div className={styles.titlepicture}>
-              <img src={pic} alt="no title img" />
+              <img src={titlePicture} alt="no title img" />
             </div>
             <div className={styles.titletxt}>
-              <p>눈물이 차올라서 고갤 들어🥹</p>
+              <p>{selectedPlaylistData.name}</p>
             </div>
           </div>
         </div>
@@ -73,20 +50,20 @@ const Playlist = () => {
           </div>
           <div className={styles.icons}>
             <div className={styles.icon}>
-              <img src={appleIcon} alt="no appleIcon" />
+              <a href={selectedPlaylistData.appleshare}><img src={appleIcon} alt="no appleIcon" /></a>
             </div>
             <div className={styles.icon}>
-              <img src={melonIcon} alt="no melonIcon" />
+              <a href={selectedPlaylistData.melonshare}><img src={melonIcon} alt="no melonIcon" /></a>
             </div>
             <div className={styles.icon}>
-              <img src={ytIcon} alt="no ytIcon" />
+              <a href={selectedPlaylistData.ytshare}><img src={ytIcon} alt="no ytIcon" /></a>
             </div>
           </div>
         </div>
 
         <div className={styles.playlistposition}>
           <div className={styles.bigbox}>
-            {songs.map(song => (
+            {selectedSongs.map(song => (
               <div className={styles.box} key={song.id}>
                 <div className={styles.musicbox}>
                   <div className={styles.pic}>

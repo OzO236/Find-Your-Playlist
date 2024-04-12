@@ -55,6 +55,7 @@
   position: absolute;
   top: 100px;
   right: 25px;
+  cursor: pointer;
 }
 .container .objects .screen .visited {
   height: 15%;
